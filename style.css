@@ -22,20 +22,21 @@
     color: rgb(14, 36, 107);
 }
 .active{
-  background-color: rgb(37, 67, 202)
+    background-color: rgb(37, 67, 202)
 }
 body{
     background-color: rgb(178, 194, 218);
 }
 .title-box{
-   font-family: title;
-   letter-spacing: 2px;
-   font-size-adjust: 1.8;
-   margin: 0px 0px;
-   padding-left: 50px;
-   padding-top: 70px;
-   padding-bottom: 50px;
-   font-weight: 800;
+    
+    font-family: title;
+    letter-spacing: 2px;
+    font-size-adjust: 1.8;
+    margin: 0px 0px;
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    font-weight: 800;
 }
 .title-box p{
     margin: 0px;
@@ -53,7 +54,11 @@ body{
 .text h3{
     font-family: title;
     letter-spacing: 1px;
-    font-size-adjust: 1;
+    font-size-adjust: 1.6;
     justify-self: center;
+}
+.text p{
+  font-size-adjust: 0.6;
+  font-family: sans-serif;
 }
 
