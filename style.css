@@ -61,4 +61,19 @@ body{
   font-size-adjust: 0.6;
   font-family: sans-serif;
 }
-
+.text h4{
+    font-family: title;
+    font-size-adjust: 0.7;
+    letter-spacing: 1px;
+}
+dt{
+    display: list-item;
+    margin-left:25px;
+    font-family: sans-serif;
+}
+dd{
+    display: list-item;
+    list-style: circle;
+    margin-left:50px;
+    font-family: sans-serif;
+}
