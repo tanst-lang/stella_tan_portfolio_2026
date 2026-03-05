@@ -31,7 +31,7 @@ body{
     
     font-family: title;
     letter-spacing: 2px;
-    font-size-adjust: 1.8;
+    font-size-adjust: 1.5;
     margin: 0px 0px;
     padding-left: 50px;
     padding-top: 70px;
@@ -76,4 +76,14 @@ dd{
     list-style: circle;
     margin-left:50px;
     font-family: sans-serif;
+}
+.github{
+    font-family: sans-serif;
+    color: black;
+    justify-items: center;
+    align-items: center;
+}
+.git-logo{
+   vertical-align: middle;
+   margin-left: 5px;
 }
